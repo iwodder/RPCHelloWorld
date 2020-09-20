@@ -1,0 +1,3 @@
+grant codeBase "file:/home/ian/CollegeCoursework/CPSC-60000/Week1/RMI_HelloWorld/server/target/classes" {
+    permission java.security.AllPermission;
+};
